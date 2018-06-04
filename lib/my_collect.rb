@@ -8,4 +8,4 @@ def my_collect(arg)
   collection
 end
 
-my_collect(args){|x| puts x}
+my_collect(arg){|x| puts x}
